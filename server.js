@@ -28,4 +28,4 @@ app.get('/about', function(req, res) {
 });
 
 app.listen(8088);
-console.log('8080 is the magic port');
+console.log('8088 is the magic port');
